@@ -13,14 +13,15 @@ I also run my own private-label e-commerce brand, so I'm used to making decision
 
 ### 🧪 How I research
 
-```
- Academic paper  ──►  Replicate on a tradable market  ──►  Find where the effect lives (or dies)
-        │                                                              │
-        ▼                                                              ▼
- Form my own hypothesis (H₀ / H₁)  ──►  Pre-register rules  ──►  Train → Validate → Test
-                                                                       │
-                                                                       ▼
-                                Costs, robustness checks, full disclosure  ──►  Freeze → forward test
+```mermaid
+flowchart LR
+    A[📄 Academic paper] --> B[🔁 Replicate on a<br/>tradable market]
+    B --> C[🔎 Find where the<br/>effect lives or dies]
+    C --> D[💡 My own hypothesis<br/>H₀ / H₁]
+    D --> E[🔒 Pre-register rules]
+    E --> F[📊 Train → Validate → Test]
+    F --> G[💸 Costs & robustness]
+    G --> H[🧊 Freeze → forward test]
 ```
 
 1. **Start from the literature.** Take a published result, such as an anomaly, return predictability or a market-microstructure effect, and read it critically.
