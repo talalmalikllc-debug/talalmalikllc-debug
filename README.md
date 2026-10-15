@@ -3,6 +3,8 @@
 **Quantitative Researcher & Data Analyst** · Founder of [Khurjeen.pk](https://khurjeen.pk)
 📍 Pakistan · 🌍 Open to remote roles
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-malik-inc-marketing-agency-fb/) [![Email](https://img.shields.io/badge/Email-talalmalikllc%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:talalmalikllc@gmail.com) [![Store](https://img.shields.io/badge/Store-Khurjeen.pk-96BF48?logo=shopify&logoColor=white)](https://khurjeen.pk)
+
 I test trading ideas the way a scientist tests a hypothesis. I validate the data first, fix the rules before looking at results, judge them only on out-of-sample periods, and report the weaknesses as clearly as the strengths. I also run my own private-label e-commerce brand, so I'm used to making decisions with real money on the line.
 
 ---
@@ -42,10 +44,11 @@ I own and run **Khurjeen**, a private-label bags brand in Pakistan, which I co-r
 
 ### 🎯 What I'm looking for
 
-Roles in **quantitative research, trading research, or data analysis/data science**, remote or hybrid. I'm happy to walk through any of my research in detail.
+Roles in **quantitative research, trading research, or data analysis/data science**, remote or hybrid. I'm happy to walk through any of my research in detail. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/talal-malik-inc-marketing-agency-fb/) or email.
 
 ### 📫 Contact
 
+- 💼 **LinkedIn:** [Talal Malik](https://www.linkedin.com/in/talal-malik-inc-marketing-agency-fb/)
 - ✉️ **Email:** [talalmalikllc@gmail.com](mailto:talalmalikllc@gmail.com)
 - 📸 **Instagram:** [@tmfinancials](https://www.instagram.com/tmfinancials)
 - 🎵 **TikTok:** [@tmfinancials](https://www.tiktok.com/@tmfinancials)
