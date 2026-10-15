@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Talal Malik 👋
 
-**Quantitative Researcher & Data Analyst** · Founder of [Khurjeen.pk](https://khurjeen.pk)
+**Quantitative Researcher & Data Analyst** · Founder of [Khurjeen.pk](https://khurjeen.pk)<br/>
 📍 Pakistan · 🌍 Open to remote roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-malik-inc-marketing-agency-fb/) [![Email](https://img.shields.io/badge/Email-talalmalikllc%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:talalmalikllc@gmail.com) [![Store](https://img.shields.io/badge/Store-Khurjeen.pk-96BF48?logo=shopify&logoColor=white)](https://khurjeen.pk)
