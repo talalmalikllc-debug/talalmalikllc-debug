@@ -14,14 +14,20 @@ I also run my own private-label e-commerce brand, so I'm used to making decision
 ### 🧪 How I research
 
 ```mermaid
-flowchart LR
-    A[📄 Academic paper] --> B[🔁 Replicate on a<br/>tradable market]
-    B --> C[🔎 Find where the<br/>effect lives or dies]
-    C --> D[💡 My own hypothesis<br/>H₀ / H₁]
-    D --> E[🔒 Pre-register rules]
-    E --> F[📊 Train → Validate → Test]
-    F --> G[💸 Costs & robustness]
-    G --> H[🧊 Freeze → forward test]
+flowchart TB
+    subgraph S1 [" Idea "]
+    direction LR
+    A[📄 Academic paper] --> B[🔁 Replicate on a tradable market] --> C[🔎 Find where the effect lives or dies]
+    end
+    subgraph S2 [" Test "]
+    direction LR
+    D[💡 My own hypothesis H₀ / H₁] --> E[🔒 Pre-register rules] --> F[📊 Train → Validate → Test]
+    end
+    subgraph S3 [" Decide "]
+    direction LR
+    G[💸 Costs & robustness checks] --> H[🧊 Freeze → forward test]
+    end
+    S1 --> S2 --> S3
 ```
 
 1. **Start from the literature.** Take a published result, such as an anomaly, return predictability or a market-microstructure effect, and read it critically.
